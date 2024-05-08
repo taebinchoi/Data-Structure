@@ -1,0 +1,13 @@
+H   1
+H   2
+H   3
+T
+O
+H   4
+O
+O
+P   radar
+P   chungang
+P   reer
+B   [e][d]{c}{b}(a){(0)(0)}
+B   ([)]
