@@ -1,10 +1,10 @@
 all: compile run
 
-compile: stack.c 
-	gcc stack.c -o assignment1
+compile: rb.c 
+	gcc rb.c -o assignment2_20233719
 
-run: assignment1
-	./assignment1 input.txt output.txt
+run: assignment2_20233719
+	./assignment2_20233719 input.txt output.txt
 
-clean: assignment1 
-	rm assignment1 output.txt
+clean: assignment2_20233719
+	rm assignment2_20233719 output.txt
